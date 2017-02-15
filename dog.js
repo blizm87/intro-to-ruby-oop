@@ -6,7 +6,7 @@ class Dog extends Animal {
     this.hasFleas = true;
   }
   sayName() {
-    return super.sayName() + ' Woof!';
+    return super.sayName() + ' Wuuf!';
   }
 }
 
